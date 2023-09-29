@@ -1,14 +1,6 @@
 {
   "ramens": [
     {
-      "id": 1,
-      "name": "Shoyu Ramen",
-      "restaurant": "Nonono",
-      "image": "./assets/ramen/shoyu.jpg",
-      "rating": 7,
-      "comment": "Delish. Can't go wrong with a classic!"
-    },
-    {
       "id": 2,
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
@@ -39,6 +31,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "charshu",
+      "restaurant": "My Backyard",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/190208-delish-ramen-horizontal-093-1550096715.jpg?crop=0.8893333333333334xw:1xh;center,top&resize=1200:*",
+      "rating": "6",
+      "comment": "Gets the job done",
+      "id": 6
     }
   ]
 }
